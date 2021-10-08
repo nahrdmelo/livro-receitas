@@ -1,6 +1,6 @@
 # RECEITA LASANHA À BOLONHESA #
 
-### * Igredientes * ### 
+###  Ingredientes  ### 
 
 - 3 colheres de margarina
 - 4 colheres de farinha de trigo
