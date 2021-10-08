@@ -1,6 +1,6 @@
 # RECEITA LASANHA À BOLONHESA #
 
-### * Igredientes * ### 
+### Ingredientes ### 
 
 - 3 colheres de margarina
 - 4 colheres de farinha de trigo
@@ -18,7 +18,7 @@
 - 200 g de mussarela fatiada
 - 250 g de massa para lasanha
 
-### * Modo de Preparo * ##
+### Modo de Preparo ###
 
 _Molho branco:_
 
